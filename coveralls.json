@@ -1,0 +1,15 @@
+{
+    "coverage_options": {
+        "treat_no_relevant_lines_as_covered": true
+    },
+    "skip_files": [
+        "lib/up_learn.ex",
+        "lib/up_learn/application.ex",
+        "lib/up_learn_web.ex",
+        "lib/up_learn_web/endpoint.ex",
+        "lib/up_learn_web/gettext.ex",
+        "lib/up_learn_web/router.ex",
+        "lib/up_learn_web/views/error_helpers.ex",
+        "test/support/*"
+    ]
+}
